@@ -1,0 +1,1 @@
+# multiple-identical-options-in-switch-statements.js
